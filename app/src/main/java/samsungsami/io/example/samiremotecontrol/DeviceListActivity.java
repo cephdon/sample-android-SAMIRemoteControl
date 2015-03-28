@@ -23,6 +23,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.util.Log;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -81,7 +82,7 @@ public class DeviceListActivity extends Activity {
                 // names.
 
             } catch (ApiException e) {
-
+              Log.e("DeviceList", e.toString());
             }
             return retVal;
         }
