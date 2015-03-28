@@ -1,4 +1,4 @@
-Android SAMI Remote Control example
+Android SAMI Remote Control
 ===================================
 
 The sample app demonstrates how to retrieve devices status from SAMI,
