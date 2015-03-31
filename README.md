@@ -7,7 +7,7 @@ and send them commands.
 Introduction
 ------------
 
-The blog post Making the Perfect Remote Control in Five Steps at http://blog.samsungsami.io/ describes what the app does and how it is implemented.
+The blog post [Making the Perfect Remote Control in Five Steps](https://blog.samsungsami.io/mobile/development/2015/03/31/making-the-perfect-remote-control-in-five-steps.html) at http://blog.samsungsami.io/ describes what the app does and how it is implemented.
 
 Prerequisites
 -------------
