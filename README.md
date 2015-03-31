@@ -4,6 +4,11 @@ Android SAMI Remote Control
 The sample app demonstrates how to retrieve devices status from SAMI,
 and send them commands.
 
+Introduction
+------------
+
+The blog post Making the Perfect Remote Control in Five Steps at http://blog.samsungsami.io/ describes what the app does and how it is implemented.
+
 Prerequisites
 -------------
 
